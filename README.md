@@ -1,2 +1,2 @@
-# java-class-Polinomio
+# java-class-Polinomio +
 Clase Monomio + Clase Polinomio + Operaciones
